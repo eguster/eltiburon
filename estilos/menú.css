@@ -126,4 +126,5 @@ section{
 }
 .box .text a:hover{
     color: #0112ff;
+    letter-spacing: 6px;
 }
